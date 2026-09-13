@@ -8,6 +8,9 @@ A Deep Learning-based web application that predicts the species of an Iris flowe
 🌸 **Try the application:**  
 [https://connectwithaadi-iris-prediction.streamlit.app/](https://connectwithaadi-iris-prediction.streamlit.app/)
 
+### 🖥️ Application Preview
+
+![Heart Disease Risk Prediction App](assets/iris.png)
 ---
 
 ## 📌 Project Overview
